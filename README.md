@@ -1,4 +1,4 @@
-## A simple product landing page
+## WeRateDogs Twitter page data wrangling 
 #### by Ovy Evbodi
 
 
